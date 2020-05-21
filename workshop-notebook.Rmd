@@ -7,8 +7,8 @@ output:
 
 ## ggplot workshop
 
-#### Watzek Library
-#### January 15th, 2020
+#### FTI 2020
+
 
 
 ### Goals of this workshop:  
